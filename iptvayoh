@@ -47,27 +47,27 @@ https://live-sg1.global.ssl.fastly.net/live-hls/tonton2_720p/index.m3u8
 -------------------------------------------------------------------------------------
 
 #8TV
-#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastprojecticon/blob/main/unnamed.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",8TV
+#EXTINF:-1 group-title="IPTV2" group-logo="https://github.com/akulahtuh/lastprojecticon/blob/main/unnamed.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",8TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/8tv/ 
 https://aqfadtv.xyz/live/8tv/index.mpd
 
 
 #TV AL-HIJRAH
-#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastprojecticon/blob/main/unnamed.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png",TV AL-HIJRAH
+#EXTINF:-1 group-title="IPTV2" group-logo="https://github.com/akulahtuh/lastprojecticon/blob/main/unnamed.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png",TV AL-HIJRAH
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1113/ 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd
 
 
 #HITS MOVIES
-#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastprojecticon/blob/main/unnamed.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png",HITS MOVIES
+#EXTINF:-1 group-title="IPTV2" group-logo="https://github.com/akulahtuh/lastprojecticon/blob/main/unnamed.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png",HITS MOVIES
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2305 
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default.mpd
 
 #BOO
-#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastprojecticon/blob/main/unnamed.png?raw=true" tvg-logo="",BOO
+#EXTINF:-1 group-title="IPTV2" group-logo="https://github.com/akulahtuh/lastprojecticon/blob/main/unnamed.png?raw=true" tvg-logo="",BOO
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2407 
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default.mpd
