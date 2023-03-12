@@ -117,11 +117,13 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/506/default.mpd
 #EXTINF:-1 group-title="IPTV2" group-logo="https://github.com/akulahtuh/lastprojecticon/blob/main/unnamed.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/160_144.png",BERNAMA TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw/live
 
-#
-#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastprojecticon/blob/main/unnamed.png?raw=true" tvg-logo="",
+#CGTN CHINA
+#EXTINF:-1 group-title="IPTV2" group-logo="https://github.com/akulahtuh/lastprojecticon/blob/main/unnamed.png?raw=true" tvg-logo="https://github.com/akulahtuh/lastprojecticon/blob/main/android.png?raw=true",CGTN
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
-#
-#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastprojecticon/blob/main/unnamed.png?raw=true" tvg-logo="",
+#CCTV 9 CHINA
+#EXTINF:-1 group-title="IPTV2" group-logo="https://github.com/akulahtuh/lastprojecticon/blob/main/unnamed.png?raw=true" tvg-logo="",CCTV 9
+https://cctvwbcdtxyhw.liveplay.myqcloud.com/cctvwbcd/cdrmjzcctv9_1_hd.m3u8
 
 #
 #EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastprojecticon/blob/main/unnamed.png?raw=true" tvg-logo="",
