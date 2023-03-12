@@ -13,15 +13,15 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8?id=
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8?id=3
 
 #TV6
-#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastprojecticon/blob/main/unnamed.png?raw=true" tvg-logo="",TV6
+#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastprojecticon/blob/main/unnamed.png?raw=true" tvg-logo="https://github.com/akulahtuh/lastprojecticon/blob/main/android.png?raw=true",TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b4596000_slENG.m3u8?id=6
 
 #BERITA RTM
-#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastprojecticon/blob/main/unnamed.png?raw=true" tvg-logo="",BERITA RTM
+#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastprojecticon/blob/main/unnamed.png?raw=true" tvg-logo="https://github.com/akulahtuh/lastprojecticon/blob/main/android.png?raw=true",BERITA RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b4596000_slENG.m3u8?id=5
 
 #SUKAN RTM
-#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastprojecticon/blob/main/unnamed.png?raw=true" tvg-logo="",SUKAN RTM
+#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastprojecticon/blob/main/unnamed.png?raw=true" tvg-logo="https://github.com/akulahtuh/lastprojecticon/blob/main/android.png?raw=true",SUKAN RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8?id=4
 
 #TV3
@@ -33,7 +33,7 @@ https://live-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton4_720p/index.m3u8
 
 #DRAMA SANGAT
-#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastprojecticon/blob/main/unnamed.png?raw=true" tvg-logo="",DRAMA SANGAT
+#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastprojecticon/blob/main/unnamed.png?raw=true" tvg-logo="https://github.com/akulahtuh/lastprojecticon/blob/main/android.png?raw=true",DRAMA SANGAT
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
 
 #ASTRO AWANI
@@ -45,25 +45,25 @@ https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/in
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton2_720p/index.m3u8
 
 #8TV
-#EXTINF:-1 group-title="IPTV2" group-logo="https://github.com/akulahtuh/lastprojecticon/blob/main/unnamed.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",8TV
+#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastprojecticon/blob/main/unnamed.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",8TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/8tv/ 
 https://aqfadtv.xyz/live/8tv/index.mpd
 
 #TV AL-HIJRAH
-#EXTINF:-1 group-title="IPTV2" group-logo="https://github.com/akulahtuh/lastprojecticon/blob/main/unnamed.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png",TV AL-HIJRAH
+#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastprojecticon/blob/main/unnamed.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png",TV AL-HIJRAH
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1113/ 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd
 
 #HITS MOVIES
-#EXTINF:-1 group-title="IPTV2" group-logo="https://github.com/akulahtuh/lastprojecticon/blob/main/unnamed.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png",HITS MOVIES
+#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastprojecticon/blob/main/unnamed.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png",HITS MOVIES
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2305 
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default.mpd
 
 #BOO
-#EXTINF:-1 group-title="IPTV2" group-logo="https://github.com/akulahtuh/lastprojecticon/blob/main/unnamed.png?raw=true" tvg-logo="",BOO
+#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastprojecticon/blob/main/unnamed.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png",BOO
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2407 
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default.mpd
@@ -71,6 +71,55 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default.mpd
 --------------------------------------------------
 
 
+
+#HBO
+#EXTINF:-1 group-title="IPTV2" group-logo="https://github.com/akulahtuh/lastprojecticon/blob/main/unnamed.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png",HBO
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2304 
+https://aqfadtv.xyz/live/hbo/index.mpd
+
+#CINEMAX
+#EXTINF:-1 group-title="IPTV2" group-logo="https://github.com/akulahtuh/lastprojecticon/blob/main/unnamed.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png",CINEMAX
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/603 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default.mpd
+
+#SHOWCASE MOVIES
+#EXTINF:-1 group-title="IPTV2" group-logo="https://github.com/akulahtuh/lastprojecticon/blob/main/unnamed.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/454_144.png",SHOWCASE MOVIES
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5054 
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default.mpd
+
+#HBO FAMILY
+#EXTINF:-1 group-title="IPTV2" group-logo="https://github.com/akulahtuh/lastprojecticon/blob/main/unnamed.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/450_144.png",HBO FAMILY
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5053 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default.mpd
+
+#HBO HITS
+#EXTINF:-1 group-title="IPTV2" group-logo="https://github.com/akulahtuh/lastprojecticon/blob/main/unnamed.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/449_144.png",HBO HITS
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5055 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default.mpd
+
+#CCM
+#EXTINF:-1 group-title="IPTV2" group-logo="https://github.com/akulahtuh/lastprojecticon/blob/main/unnamed.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png",CCM
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/100 
+http://linearjitp-playback.astro.com.my/dash-wv/linear/100/default.mpd
+
+#CELESTIAL MOVIES
+#EXTINF:-1 group-title="IPTV2" group-logo="https://github.com/akulahtuh/lastprojecticon/blob/main/unnamed.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png",CELESTIAL MOVIES
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/506 
+http://linearjitp-playback.astro.com.my/dash-wv/linear/506/default.mpd
+
+#BERNAMA TV
+#EXTINF:-1 group-title="IPTV2" group-logo="https://github.com/akulahtuh/lastprojecticon/blob/main/unnamed.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/160_144.png",BERNAMA TV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw/live
+
+#
+#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastprojecticon/blob/main/unnamed.png?raw=true" tvg-logo="",
 
 #
 #EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastprojecticon/blob/main/unnamed.png?raw=true" tvg-logo="",
