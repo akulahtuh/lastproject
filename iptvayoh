@@ -113,35 +113,42 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/506/default.mpd
 ------------------------------------------------------------------------------
 
 
-#BERNAMA TV
-#EXTINF:-1 group-title="IPTV2" group-logo="https://github.com/akulahtuh/lastprojecticon/blob/main/unnamed.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/160_144.png",BERNAMA TV
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw/live
 
-#CGTN CHINA
-#EXTINF:-1 group-title="IPTV2" group-logo="https://github.com/akulahtuh/lastprojecticon/blob/main/unnamed.png?raw=true" tvg-logo="https://github.com/akulahtuh/lastprojecticon/blob/main/android.png?raw=true",CGTN
-https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
-#CCTV 9 CHINA
-#EXTINF:-1 group-title="IPTV2" group-logo="https://github.com/akulahtuh/lastprojecticon/blob/main/unnamed.png?raw=true" tvg-logo="",CCTV 9
-https://cctvwbcdtxyhw.liveplay.myqcloud.com/cctvwbcd/cdrmjzcctv9_1_hd.m3u8
 
-#
-#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastprojecticon/blob/main/unnamed.png?raw=true" tvg-logo="",
+#HITS
+#EXTINF:-1 group-title="IPTV2" group-logo="https://github.com/akulahtuh/lastprojecticon/blob/main/unnamed.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png",HITS
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/606 
+http://linearjitp-playback.astro.com.my/dash-wv/linear/606/default.mpd
 
-#
-#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastprojecticon/blob/main/unnamed.png?raw=true" tvg-logo="",
+#TVN
+#EXTINF:-1 group-title="IPTV2" group-logo="https://github.com/akulahtuh/lastprojecticon/blob/main/unnamed.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png",TVN
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1001/ 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_primary.mpd
 
-#
-#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastprojecticon/blob/main/unnamed.png?raw=true" tvg-logo="",
+#ANIMAX
+#EXTINF:-1 group-title="IPTV2" group-logo="https://github.com/akulahtuh/lastprojecticon/blob/main/unnamed.png?raw=true" tvg-logo="https://github.com/akulahtuh/lastprojecticon/blob/main/android.png?raw=true",ANIMAX
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=edf1a715de9748638dd2fad75a419af2:2f5a3199b26e9b693ae881af7ff864cf 
+https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
 
-#
-#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastprojecticon/blob/main/unnamed.png?raw=true" tvg-logo="",
+#ASTRO ARENA
+#EXTINF:-1 group-title="IPTV2" group-logo="https://github.com/akulahtuh/lastprojecticon/blob/main/unnamed.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",ASTRO ARENA
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2604 
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default.mpd
 
-#
-#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastprojecticon/blob/main/unnamed.png?raw=true" tvg-logo="",
+#UNIFI SPORT 1
+#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastprojecticon/blob/main/unnamed.png?raw=true" tvg-logo="",UNIFI SPORT 1
+ https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 
-#
-#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastprojecticon/blob/main/unnamed.png?raw=true" tvg-logo="",
+#ASTRO SUPERSPORT
+#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastprojecticon/blob/main/unnamed.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png",ASTRO SUPERSPORT
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/601 
+https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRqgaczNpgvO1ZvBHO2qyrR4=sRZp/dash-wv/jitp-linearwm/601/default.mpd
 
 #
 #EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastprojecticon/blob/main/unnamed.png?raw=true" tvg-logo="",
