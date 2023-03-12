@@ -13,15 +13,15 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8?id=
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8?id=3
 
 #TV6
-#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastprojecticon/blob/main/television.png?raw=true" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg",TV6
+#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastprojecticon/blob/main/television.png?raw=true" tvg-logo="https://github.com/akulahtuh/lastprojecticon/blob/main/android.png?raw=true",TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b4596000_slENG.m3u8?id=6
 
 #BERITA RTM
-#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastprojecticon/blob/main/television.png?raw=true" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/berita_bckg.png",BERITA RTM
+#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastprojecticon/blob/main/television.png?raw=true" tvg-logo="https://github.com/akulahtuh/lastprojecticon/blob/main/android.png?raw=true",BERITA RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b4596000_slENG.m3u8?id=5
 
 #SUKAN RTM
-#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastprojecticon/blob/main/television.png?raw=true" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_SUKANRTM.jpg",SUKAN RTM
+#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastprojecticon/blob/main/television.png?raw=true" tvg-logo="https://github.com/akulahtuh/lastprojecticon/blob/main/android.png?raw=true",SUKAN RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8?id=4
 
 #TV3
