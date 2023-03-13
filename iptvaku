@@ -178,37 +178,46 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default.mpd
 
 #NAT GEO WILD
+#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/322_144.png",CH550 NAT GEO WILD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2103
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2103/default.mpd
 
 #BBC EARTH
+#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/452_144.png",CH554 BBC ERTH
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5051
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default.mpd
 
 #ANIMAL PLANET
+#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/377_144.png",CH556 ANIMAL PLANET
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2710
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default.mpd
 
 #HGTV
+#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/198_144.png",CH715 HGTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2502
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default.mpd
 
 #PLUTO TV (ANIMAL)
+#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="",CH PLUTO TV (ANIMAL)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf8ea0d000120009bcad83/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ddf8ea0d000120009bcad83&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=550&terminate=false&userId=
 
-#LOVE NATURE
+#LOVE NATURE 4K
+#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/472_144.png",CH549 LOVE NATURE
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 #INWILD
+#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="",CH INWILD
 https://inwild-samsungau.amagi.tv/playlist720-p.m3u8
 
 #WIRED2FISH
+#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="",CH WIRED2FISH
 https://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist.m3u8?checkedby:iptvcat.com
 
 #XPLORE HD
+#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="",CH XPLORE
 https://xplore-roku.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 
