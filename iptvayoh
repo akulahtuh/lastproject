@@ -1,134 +1,75 @@
-#EXTM3U 
+#EXTINF:-1 group-title="myFreeview" tvg-id="TV1" ch-number="101" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",TV1 FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/711
+http://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
 
-#TV1
-#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",TV1
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b2596000_slENG.m3u8?id=1
+#EXTINF:-1 group-title="myFreeview" tvg-id="TV2" ch-number="102" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/TV2_%28Malaysia%29_logo.svg/1200px-TV2_%28Malaysia%29_logo.svg.png",TV2 FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5027
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
 
-#TV2
-#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png",TV2
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8?id=2
+#EXTINF:-1 group-title="myFreeview" tvg-id="TV3" ch-number="103" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",TV3 FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv3/
+https://aqfadtv.xyz/live/tv3/index.mpd
 
-#OKEY TV
-#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/467_144.png",OKEY TV
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8?id=3
-
-#TV6
-#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://github.com/akulahtuh/lastproject/blob/main/android.png?raw=true",TV6
+#EXTINF:-1 group-title="myFreeview" tvg-id="TV6" ch-number="113" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814",TV6 FHD
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-referrer=https://d25tgymtnqzu8s.cloudfront.net
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b4596000_slENG.m3u8?id=6
 
-#BERITA RTM
-#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://github.com/akulahtuh/lastproject/blob/main/android.png?raw=true",BERITA RTM
-https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b4596000_slENG.m3u8?id=5
+#EXTINF:-1 group-title="myFreeview" tvg-id="DidikTVKPM" ch-number="147" tvg-logo="https://didik.tv/images/logotv2.png",DidikTV KPM FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/didiktvkpm/
+https://aqfadtv.xyz/live/didiktvkpm/index.mpd
 
-#SUKAN RTM
-#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://github.com/akulahtuh/lastproject/blob/main/android.png?raw=true",SUKAN RTM
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8?id=4
-
-#TV3
-#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",TV3
-https://live-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8 
-
-#TV9
-#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png",TV9
-https://live-sg1.global.ssl.fastly.net/live-hls/tonton4_720p/index.m3u8
-
-#DRAMA SANGAT
-#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",DRAMA SANGAT
-https://live-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
-
-#ASTRO AWANI
-#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/436_144.png",ASTRO AWANI
-https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
-
-#NTV7
-#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png",NTV7
-https://live-sg1.global.ssl.fastly.net/live-hls/tonton2_720p/index.m3u8
-
-#8TV
-#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",8TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/8tv/ 
+#EXTINF:-1 group-title="myFreeview" tvg-id="8TV" ch-number="148" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/8TV_%28Malaysia%29_logo_in_English.svg/640px-8TV_%28Malaysia%29_logo_in_English.svg.png",8TV FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/8tv/
 https://aqfadtv.xyz/live/8tv/index.mpd
 
-#TV AL-HIJRAH
-#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png",TV AL-HIJRAH
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1113/ 
+#EXTINF:-1 group-title="myFreeview" tvg-id="TV9" ch-number="149" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TV9_Malaysia_Logo_2021.png/476px-TV9_Malaysia_Logo_2021.png",TV9 FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv9/
+https://aqfadtv.xyz/live/tv9/index.mpd
+
+#EXTINF:-1 group-title="myFreeview" tvg-id="AwesomeTV" ch-number="123" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Awesome_TV_Malaysia.png/220px-Awesome_TV_Malaysia.png",Awesome TV FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/211/
+https://aqfadtv.xyz/live/awesometv/index.mpd
+
+#EXTINF:-1 group-title="myFreeview" tvg-id="OKEY" ch-number="146" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/TV_Okey.png/revision/latest?cb=20180622050405",OKEY FHD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-referrer=https://d25tgymtnqzu8s.cloudfront.net
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
+
+#EXTINF:-1 group-title="myFreeview" tvg-id="SelangorTV" tvg-logo="https://selangortv.my/wp-content/uploads/2020/10/SelangorTV.2.png", Selangor TV HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-referrer=https://skyios.sky4k.top
+
+
+#EXTINF:-1 group-title="myFreeview" tvg-id="TVS" ch-number="122" tvg-logo="https://kuchingborneo.info/wp-content/uploads/2020/10/TVS-logo.jpg",TVS FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/5021/
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default.mpd
+
+#EXTINF:-1 group-title="myFreeview" tvg-id="SukeTV" ch-number="116" tvg-logo="https://suketv.com/wp-content/uploads/2022/04/suketv-logo-color.png",Suke TV FHD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-referrer=https://www.youtube.com
+https://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/channel/UCzh6SMSWad2934rgoq_cNkg/live
+
+#EXTINF:-1 group-title="myFreeview" tvg-id="TVAlhijrah" ch-number="114" tvg-logo="https://user-images.githubusercontent.com/85995579/128817434-40ef33c1-c920-4bc1-ac0f-11925b360514.png",TV AlHijrah FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1113/
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd
 
-#HITS MOVIES
-#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png",HITS MOVIES
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2305 
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default.mpd
+#EXTINF:-1 group-title="myFreeview" channel id="RTMK07" tvg-logo="https://rtmparlimen.rtm.gov.my/images/header.png", RTM Parlimen Dewan Rakyat FHD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-referrer=https://d25tgymtnqzu8s.cloudfront.net
+https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/chunklist_b4596000_slENG.m3u8?id=7
 
-#BOO
-#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png",BOO
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2407 
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default.mpd
-
-#HBO
-#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png",HBO
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2304 
-https://aqfadtv.xyz/live/hbo/index.mpd
-
-#CINEMAX
-#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png",CINEMAX
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/603 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default.mpd
-
-#SHOWCASE MOVIES
-#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/454_144.png",SHOWCASE MOVIES
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5054 
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default.mpd
-
-#HBO FAMILY
-#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/450_144.png",HBO FAMILY
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5053 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default.mpd
-
-#HBO HITS
-#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/449_144.png",HBO HITS
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5055 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default.mpd
-
-#HITS
-#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png",HITS
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/606 
-http://linearjitp-playback.astro.com.my/dash-wv/linear/606/default.mpd
-
-#ANIMAX
-#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://www.animaxtv.com/images/logo_animax.png",ANIMAX
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=edf1a715de9748638dd2fad75a419af2:2f5a3199b26e9b693ae881af7ff864cf 
-https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
-
-#ASTRO ARENA
-#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",ASTRO ARENA
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2604 
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default.mpd
-
-#UNIFI SPORT 1
-#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://github.com/akulahtuh/lastproject/blob/main/android.png?raw=true",UNIFI SPORT 1
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
-
-#TENNIS CHANNEL
-#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://github.com/akulahtuh/lastproject/blob/main/android.png?raw=true",TENNIS CHANNEL
-https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
-
-#BERNAMA TV
-#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/160_144.png",BERNAMA TV
-https://live.mana2.my/Bernama/index.m3u8?organizationId=196288014&suiteItemId=200299504
-
-#TVS
-#EXTINF:-1 group-title="IPTV" group-logo="https://github.com/akulahtuh/lastproject/blob/main/live.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png",TVS
-https://live.mana2.my/TVS/index.m3u8?organizationId=196288014&suiteItemId=217854390
-
+#EXTINF:-1 group-title="myFreeview" channel id="RTMK08" tvg-logo="https://rtmparlimen.rtm.gov.my/images/header.png", RTM Parlimen Dewan Negara FHD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-referrer=https://d25tgymtnqzu8s.cloudfront.net
+https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b4596000_slENG.m3u8?id=8
