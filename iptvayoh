@@ -12,7 +12,20 @@ http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 http://mpwtv.my.id/vidioye/204-sctv.m3u8
 #EXTINF:-1 tvg-id="OChannel.id" tvg-logo="https://thumbor.prod.vidiocdn.com/OFdeH2yFFwSxnFmGdO2pHkQ0t8Q=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/a11dc1.png" group-title="TV NASIONAL",MOJI (1)
 http://mpwtv.my.id/vidioye/206-moji.m3u8
-
+#EXTINF:-1 tvg-id="pptvhd36.th" tvg-name=""  tvg-logo="https://i.ibb.co/ZhvSc9L/Picsart-22-08-12-01-14-52-384.png" group-title="THAILAND",PPTV HD
+https://eiei.livedoomovies.com:4431/02_PPTVHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="bbtvchannel7.th" tvg-name=""  tvg-logo="https://i.ibb.co/LYzw38C/Picsart-22-08-12-01-15-14-575.png" group-title="THAILAND",CH 7 HD
+https://eiei.livedoomovies.com:4431/02_7HD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="channel3.th" tvg-name=""  tvg-logo="https://i.ibb.co/VpyP32p/Picsart-22-08-12-01-16-03-622.png" group-title="THAILAND",CH 3 HD
+https://eiei.livedoomovies.com:4431/02_3HD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="mono29.th" tvg-name=""  tvg-logo="https://i.ibb.co/HhRqGDq/Picsart-22-08-12-01-35-07-335.png" group-title="THAILAND",MONO 29
+https://eiei.livedoomovies.com:4431/02_MONO_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="true4u.th" tvg-name=""  tvg-logo="https://i.ibb.co/8PjXwzZ/Picsart-22-08-12-01-27-37-694.png" group-title="THAILAND",TRUE 4U
+https://eiei.livedoomovies.com:4431/02_TRUE4U_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id="thaitv5hd1.th" tvg-name=""  tvg-logo="https://i.ibb.co/bXpz4Fd/Picsart-22-08-12-01-16-28-670.png" group-title="THAILAND",CH 5 HD
+https://eiei.livedoomovies.com:4431/02_5HD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="channel8.th" tvg-name=""  tvg-logo="https://i.ibb.co/ChCfyLv/Picsart-22-08-12-01-16-49-229.png" group-title="THAILAND",CH 8 HD
+https://eiei.livedoomovies.com:4431/02_8HD_720p/chunklist.m3u
 #EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://i.ibb.co/B2fCbY1/channel-81-modified.png" group-title="TV NASIONAL",GTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
