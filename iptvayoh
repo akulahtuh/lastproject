@@ -5,7 +5,8 @@ TV FROM MALAYSIA
 ==============================================================================================================================================================
 
 #EXTINF:-1 group-title="MALAYSIA IPTV" tvg-logo="https://github.com/akulahtuh/lastproject/blob/main/android.png?raw=true",TV1
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b4596000_slENG.m3u8?id=1
+#https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b4596000_slENG.m3u8?id=1
+https://drive.google.com/file/d/1truem1BEsDmNR3U4fFQIzmg0JwawFczv/view?usp=sharing
 
 #EXTINF:-1 group-title="MALAYSIA IPTV" tvg-logo="https://github.com/akulahtuh/lastproject/blob/main/android.png?raw=true",TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8?id=2
